@@ -1,2 +1,2 @@
 # osscameroon-meeting-report
-osscameroon group meeting reports
+osscameroon community meeting reports
